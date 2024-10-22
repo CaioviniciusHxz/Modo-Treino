@@ -1,0 +1,15 @@
+/home/caio-vinicius/Exercicios/ContaBancaria/bin/Debug/net8.0/ContaBancaria
+/home/caio-vinicius/Exercicios/ContaBancaria/bin/Debug/net8.0/ContaBancaria.deps.json
+/home/caio-vinicius/Exercicios/ContaBancaria/bin/Debug/net8.0/ContaBancaria.runtimeconfig.json
+/home/caio-vinicius/Exercicios/ContaBancaria/bin/Debug/net8.0/ContaBancaria.dll
+/home/caio-vinicius/Exercicios/ContaBancaria/bin/Debug/net8.0/ContaBancaria.pdb
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.AssemblyInfoInputs.cache
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.AssemblyInfo.cs
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.sourcelink.json
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.dll
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/refint/ContaBancaria.dll
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.pdb
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ContaBancaria.genruntimeconfig.cache
+/home/caio-vinicius/Exercicios/ContaBancaria/obj/Debug/net8.0/ref/ContaBancaria.dll
