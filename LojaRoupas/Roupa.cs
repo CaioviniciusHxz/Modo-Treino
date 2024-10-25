@@ -16,6 +16,7 @@ namespace LojaRoupas
             PriceRoupa = priceroupa;
             CodRoupa  = codroupa;
         }
+       
 
 
 

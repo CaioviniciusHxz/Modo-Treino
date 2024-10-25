@@ -7,9 +7,9 @@ namespace LojaRoupas
 {
     class Program{
         static void Main(string[] args){
-            System.Console.WriteLine("Cadastra Roupa (Y/N)");
-            char response = char.Parse(Console.ReadLine());
-           List<string> list = new List<string>();
+            System.Console.WriteLine("Cadastra Roupa ");
+            char response;
+            List<string> list = new List<string>();
          do{
             int count = 1;
             count++;
@@ -20,11 +20,17 @@ namespace LojaRoupas
             double priceroupa = double.Parse(Console.ReadLine());
             System.Console.WriteLine("Codigo da Roupa");
             int codroupa = int.Parse(Console.ReadLine());
+            System.Console.WriteLine("Quantidade de peça");
+            int quant = int.Parse(Console.ReadLine());
             
             Roupa rp = new Roupa(nomeroupa, priceroupa, codroupa);
-            list.Add(nomeroupa);
-            list.Add(priceroupa.ToString("F2", CultureInfo.InvariantCulture));
+            
+          
             list.Add(codroupa.ToString());
+            list.Add(nomeroupa);
+            list.Add(quant.ToString());
+            list.Add(priceroupa.ToString("F2", CultureInfo.InvariantCulture));
+              Estoque estoqueClass = new Estoque(rp, quant);
                 
                 
                     
