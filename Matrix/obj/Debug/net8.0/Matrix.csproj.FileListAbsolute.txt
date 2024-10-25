@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Matrix/bin/Debug/net8.0/Matrix
+/home/caio-vinicius/ModoTreino/Matrix/bin/Debug/net8.0/Matrix.deps.json
+/home/caio-vinicius/ModoTreino/Matrix/bin/Debug/net8.0/Matrix.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Matrix/bin/Debug/net8.0/Matrix.dll
+/home/caio-vinicius/ModoTreino/Matrix/bin/Debug/net8.0/Matrix.pdb
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.sourcelink.json
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.dll
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/refint/Matrix.dll
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.pdb
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/Matrix.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Matrix/obj/Debug/net8.0/ref/Matrix.dll
