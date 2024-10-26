@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/DesafioMatrix/bin/Debug/net8.0/DesafioMatrix
+/home/caio-vinicius/ModoTreino/DesafioMatrix/bin/Debug/net8.0/DesafioMatrix.deps.json
+/home/caio-vinicius/ModoTreino/DesafioMatrix/bin/Debug/net8.0/DesafioMatrix.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/DesafioMatrix/bin/Debug/net8.0/DesafioMatrix.dll
+/home/caio-vinicius/ModoTreino/DesafioMatrix/bin/Debug/net8.0/DesafioMatrix.pdb
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.sourcelink.json
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.dll
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/refint/DesafioMatrix.dll
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.pdb
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/DesafioMatrix.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/DesafioMatrix/obj/Debug/net8.0/ref/DesafioMatrix.dll
