@@ -1,0 +1,15 @@
+/home/caio-vinicius/TestesCsharp/Enuns/bin/Debug/net8.0/Enuns
+/home/caio-vinicius/TestesCsharp/Enuns/bin/Debug/net8.0/Enuns.deps.json
+/home/caio-vinicius/TestesCsharp/Enuns/bin/Debug/net8.0/Enuns.runtimeconfig.json
+/home/caio-vinicius/TestesCsharp/Enuns/bin/Debug/net8.0/Enuns.dll
+/home/caio-vinicius/TestesCsharp/Enuns/bin/Debug/net8.0/Enuns.pdb
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.AssemblyInfoInputs.cache
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.AssemblyInfo.cs
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.sourcelink.json
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.dll
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/refint/Enuns.dll
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.pdb
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/Enuns.genruntimeconfig.cache
+/home/caio-vinicius/TestesCsharp/Enuns/obj/Debug/net8.0/ref/Enuns.dll

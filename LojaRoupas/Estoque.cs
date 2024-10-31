@@ -2,13 +2,26 @@ using System;
 
 namespace LojaRoupas{
     class Estoque {
-        private int Quant;
-        public Roupa  Rp {get; set;}
+        
+        public string[] Principal {get; set;}
 
-        public Estoque( Roupa rp, int quant)
+        public Estoque( string[] Principal)
         {
-            Rp = rp;
-            Quant = quant;
+            this.Principal = Principal;
+            
+        }
+        public  bool ComEstoque(int quantidadeVenda){
+        for(int i = 0; i < Principal.Length; i++){
+          if(Principal[i] ==  Principal[3]){
+            for(int c = 0; c < Principal[3].Length;){
+                if(Principal[c] == quantidadeVenda.ToString()){
+                  return true;
+                }
+            }
+
+          }
+        }
+                  return false;
         }
     } 
 }

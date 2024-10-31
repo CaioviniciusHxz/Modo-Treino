@@ -9,7 +9,16 @@ namespace LojaRoupas
         static void Main(string[] args){
             System.Console.WriteLine("Cadastra Roupa ");
             char response;
-            List<string> list = new List<string>();
+            string[] Principal = new string[]{};
+            List<string> Nome = new List<string>();
+            List<int> Codigo = new List<int>();
+            List<double> Preco = new List<double>();
+            List<int> Quantidade = new List<int>();
+
+            Principal[0] = Codigo.ToString();
+            Principal[1] = Nome.ToString();
+            Principal[2] = Quantidade.ToString();
+            Principal[3] = Preco.ToString();
          do{
             int count = 1;
             count++;
@@ -26,20 +35,19 @@ namespace LojaRoupas
             Roupa rp = new Roupa(nomeroupa, priceroupa, codroupa);
             
           
-            list.Add(codroupa.ToString());
-            list.Add(nomeroupa);
-            list.Add(quant.ToString());
-            list.Add(priceroupa.ToString("F2", CultureInfo.InvariantCulture));
-              Estoque estoqueClass = new Estoque(rp, quant);
+            Codigo.Add(codroupa);
+            Nome.Add(nomeroupa);
+            Quantidade.Add(quant);
+            Preco.Add(priceroupa);
+            
+              Estoque estoqueClass = new Estoque(Principal);
                 
                 
                     
             System.Console.WriteLine("Cadastra outra peça (Y/N)");
             response = char.Parse(Console.ReadLine());
             }while(response == 'Y');
-           foreach(string item in list){
-                System.Console.WriteLine(item);
-           }
+          
      
 
 
