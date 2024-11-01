@@ -1,14 +1,15 @@
 using System;
 
 namespace LojaRoupas{
-     class Venda : Roupa    {
+     class Venda    {
 
-        public Venda( string nomeroupa, double priceroupa, int codroupa) : base(nomeroupa, priceroupa, codroupa)
-        {
-        }
-         public double TotalVenda(int quant){
+      public StatusVendas status {get; set;}
+      
+
+     
+      public double TotalVenda(int quant){
            return PriceRoupa *= quant;
-        }
+      }
         
     }
 }

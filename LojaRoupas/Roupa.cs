@@ -1,6 +1,7 @@
 using System;
 using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
+using System.Text;
 
 namespace LojaRoupas
 {
@@ -33,8 +34,11 @@ namespace LojaRoupas
            
         }
 
-     
 
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder()
+        }
 
 
 

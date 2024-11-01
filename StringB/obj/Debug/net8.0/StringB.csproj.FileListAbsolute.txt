@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/StringB/bin/Debug/net8.0/StringB
+/home/caio-vinicius/ModoTreino/StringB/bin/Debug/net8.0/StringB.deps.json
+/home/caio-vinicius/ModoTreino/StringB/bin/Debug/net8.0/StringB.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/StringB/bin/Debug/net8.0/StringB.dll
+/home/caio-vinicius/ModoTreino/StringB/bin/Debug/net8.0/StringB.pdb
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.sourcelink.json
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.dll
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/refint/StringB.dll
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.pdb
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/StringB.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/StringB/obj/Debug/net8.0/ref/StringB.dll
