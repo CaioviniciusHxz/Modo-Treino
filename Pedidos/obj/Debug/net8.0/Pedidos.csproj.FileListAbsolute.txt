@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Pedidos/bin/Debug/net8.0/Pedidos
+/home/caio-vinicius/ModoTreino/Pedidos/bin/Debug/net8.0/Pedidos.deps.json
+/home/caio-vinicius/ModoTreino/Pedidos/bin/Debug/net8.0/Pedidos.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Pedidos/bin/Debug/net8.0/Pedidos.dll
+/home/caio-vinicius/ModoTreino/Pedidos/bin/Debug/net8.0/Pedidos.pdb
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.sourcelink.json
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.dll
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/refint/Pedidos.dll
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.pdb
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/Pedidos.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Pedidos/obj/Debug/net8.0/ref/Pedidos.dll
