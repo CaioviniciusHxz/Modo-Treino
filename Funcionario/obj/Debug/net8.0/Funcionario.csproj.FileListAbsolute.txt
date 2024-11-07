@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Funcionario/bin/Debug/net8.0/Funcionario
+/home/caio-vinicius/ModoTreino/Funcionario/bin/Debug/net8.0/Funcionario.deps.json
+/home/caio-vinicius/ModoTreino/Funcionario/bin/Debug/net8.0/Funcionario.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Funcionario/bin/Debug/net8.0/Funcionario.dll
+/home/caio-vinicius/ModoTreino/Funcionario/bin/Debug/net8.0/Funcionario.pdb
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.sourcelink.json
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.dll
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/refint/Funcionario.dll
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.pdb
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/Funcionario.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Funcionario/obj/Debug/net8.0/ref/Funcionario.dll
