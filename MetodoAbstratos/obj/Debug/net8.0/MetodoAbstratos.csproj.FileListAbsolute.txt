@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/bin/Debug/net8.0/MetodoAbstratos
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/bin/Debug/net8.0/MetodoAbstratos.deps.json
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/bin/Debug/net8.0/MetodoAbstratos.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/bin/Debug/net8.0/MetodoAbstratos.dll
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/bin/Debug/net8.0/MetodoAbstratos.pdb
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.sourcelink.json
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.dll
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/refint/MetodoAbstratos.dll
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.pdb
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/MetodoAbstratos.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/MetodoAbstratos/obj/Debug/net8.0/ref/MetodoAbstratos.dll
