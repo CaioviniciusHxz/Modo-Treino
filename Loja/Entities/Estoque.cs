@@ -1,3 +1,4 @@
+using System.Globalization;
 using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Permissions;
@@ -25,7 +26,7 @@ namespace Loja.Entities{
         public void AddProduct(Products prod){
             products.Add(prod);
         }
-          public void RemoveProduct(Products prod){
+          public virtual void RemoveProduct(Products prod){
             products.Remove(prod);
         }
 
@@ -34,22 +35,12 @@ namespace Loja.Entities{
         {
             StringBuilder sb = new StringBuilder();
             foreach(Products item in products){
-              sb.AppendLine($"Codigo: {item.Cod}");
-              sb.AppendLine($"Nome Product: {item.NameProduct}");
-              sb.AppendLine($"Preço do Product: {item.Price}");
+              sb.AppendLine(item.ToString());
             }
             return sb.ToString();
         }
 
-        /*public bool VerificarItem(Products cod ){
-          int index = Products.BinarySearch(cod);
-          
-          if(index < 0){
-            return true;
-          }
-          return false;
-            
-        }*/
+
 
     }
 }

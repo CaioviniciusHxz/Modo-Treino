@@ -1,3 +1,5 @@
+using System.Globalization;
+
 namespace Loja.Entities{
     class Products{
         public int Cod {get; private set;}
@@ -17,6 +19,16 @@ namespace Loja.Entities{
             NameProduct = nameproduct;
             Price = price;
             
+        }
+        public override string ToString()
+        {
+            return "Codigo: "
+            + Cod
+            +" Nome Produto: " 
+            + NameProduct
+            + " Preço: "
+            + Price.ToString("F2", CultureInfo.InvariantCulture);    
+
         }
 
     }

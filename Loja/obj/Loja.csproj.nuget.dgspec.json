@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/caio-vinicius/Loja/Loja.csproj": {}
+    "/home/caio-vinicius/ModoTreino/Loja/Loja.csproj": {}
   },
   "projects": {
-    "/home/caio-vinicius/Loja/Loja.csproj": {
+    "/home/caio-vinicius/ModoTreino/Loja/Loja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/caio-vinicius/Loja/Loja.csproj",
+        "projectUniqueName": "/home/caio-vinicius/ModoTreino/Loja/Loja.csproj",
         "projectName": "Loja",
-        "projectPath": "/home/caio-vinicius/Loja/Loja.csproj",
+        "projectPath": "/home/caio-vinicius/ModoTreino/Loja/Loja.csproj",
         "packagesPath": "/home/caio-vinicius/.nuget/packages/",
-        "outputPath": "/home/caio-vinicius/Loja/obj/",
+        "outputPath": "/home/caio-vinicius/ModoTreino/Loja/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/caio-vinicius/.nuget/NuGet/NuGet.Config"
