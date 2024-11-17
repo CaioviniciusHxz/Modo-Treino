@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Contas/bin/Debug/net8.0/Contas
+/home/caio-vinicius/ModoTreino/Contas/bin/Debug/net8.0/Contas.deps.json
+/home/caio-vinicius/ModoTreino/Contas/bin/Debug/net8.0/Contas.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Contas/bin/Debug/net8.0/Contas.dll
+/home/caio-vinicius/ModoTreino/Contas/bin/Debug/net8.0/Contas.pdb
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.sourcelink.json
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.dll
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/refint/Contas.dll
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.pdb
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/Contas.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Contas/obj/Debug/net8.0/ref/Contas.dll
