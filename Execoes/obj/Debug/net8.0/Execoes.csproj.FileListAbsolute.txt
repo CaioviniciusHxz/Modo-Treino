@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Execoes/bin/Debug/net8.0/Execoes
+/home/caio-vinicius/ModoTreino/Execoes/bin/Debug/net8.0/Execoes.deps.json
+/home/caio-vinicius/ModoTreino/Execoes/bin/Debug/net8.0/Execoes.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Execoes/bin/Debug/net8.0/Execoes.dll
+/home/caio-vinicius/ModoTreino/Execoes/bin/Debug/net8.0/Execoes.pdb
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.sourcelink.json
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.dll
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/refint/Execoes.dll
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.pdb
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/Execoes.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Execoes/obj/Debug/net8.0/ref/Execoes.dll
