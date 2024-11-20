@@ -1,4 +1,6 @@
 using System;
+using System.Diagnostics.CodeAnalysis;
+using Execoes.Entites.Execption;
 namespace Execoes.Entites{
     class Account{
         public int Number { get; set; }
@@ -18,6 +20,16 @@ namespace Execoes.Entites{
         }
         public void Withdraw(double amount){
             Balance -= amount;
+        }
+
+        public void Ex(double amount ){
+         // Método responsavel por retornar as exceções   
+
+            if(amount > WithdrowLimit || amount > Balance){
+                throw new("Valor de saldo acima do limite ou saldo insuficiente");
+            }
+            Withdraw(amount);
+
         }
     }
 }
