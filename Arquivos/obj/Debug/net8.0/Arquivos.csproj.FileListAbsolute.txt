@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Arquivos/bin/Debug/net8.0/Arquivos
+/home/caio-vinicius/ModoTreino/Arquivos/bin/Debug/net8.0/Arquivos.deps.json
+/home/caio-vinicius/ModoTreino/Arquivos/bin/Debug/net8.0/Arquivos.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Arquivos/bin/Debug/net8.0/Arquivos.dll
+/home/caio-vinicius/ModoTreino/Arquivos/bin/Debug/net8.0/Arquivos.pdb
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.sourcelink.json
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.dll
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/refint/Arquivos.dll
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.pdb
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/Arquivos.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Arquivos/obj/Debug/net8.0/ref/Arquivos.dll
