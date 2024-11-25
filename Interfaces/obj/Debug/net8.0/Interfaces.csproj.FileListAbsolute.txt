@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Interfaces/bin/Debug/net8.0/Interfaces
+/home/caio-vinicius/ModoTreino/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/home/caio-vinicius/ModoTreino/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/home/caio-vinicius/ModoTreino/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
