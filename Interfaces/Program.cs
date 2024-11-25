@@ -23,7 +23,7 @@ namespace Interfaces{
             double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(vehicle));
-            RentalService rentalService = new RentalService(pricePerHours, pricePerDay);
+            RentalService rentalService = new RentalService(pricePerHours, pricePerDay, new BrazilTaxService());
 
             rentalService.Processvoice(carRental);
             
