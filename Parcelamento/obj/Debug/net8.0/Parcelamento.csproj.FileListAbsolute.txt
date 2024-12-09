@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Parcelamento/bin/Debug/net8.0/Parcelamento
+/home/caio-vinicius/ModoTreino/Parcelamento/bin/Debug/net8.0/Parcelamento.deps.json
+/home/caio-vinicius/ModoTreino/Parcelamento/bin/Debug/net8.0/Parcelamento.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Parcelamento/bin/Debug/net8.0/Parcelamento.dll
+/home/caio-vinicius/ModoTreino/Parcelamento/bin/Debug/net8.0/Parcelamento.pdb
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.sourcelink.json
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.dll
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/refint/Parcelamento.dll
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.pdb
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/Parcelamento.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Parcelamento/obj/Debug/net8.0/ref/Parcelamento.dll

@@ -19,6 +19,7 @@ namespace Interfaces{
 
             System.Console.WriteLine("Enter price per Hours");
             double pricePerHours = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            
             System.Console.WriteLine("ENter price oer Day");
             double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 

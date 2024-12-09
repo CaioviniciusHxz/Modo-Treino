@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoAbstratos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd906a7c37f48941f6923b81cd6386048f000fcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b77dc62e9bbc4ebf4f9fe9b30eee04750d2b4a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoAbstratos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoAbstratos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
