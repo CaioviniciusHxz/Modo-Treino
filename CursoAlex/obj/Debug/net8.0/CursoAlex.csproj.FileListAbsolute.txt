@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/CursoAlex/bin/Debug/net8.0/CursoAlex
+/home/caio-vinicius/ModoTreino/CursoAlex/bin/Debug/net8.0/CursoAlex.deps.json
+/home/caio-vinicius/ModoTreino/CursoAlex/bin/Debug/net8.0/CursoAlex.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/CursoAlex/bin/Debug/net8.0/CursoAlex.dll
+/home/caio-vinicius/ModoTreino/CursoAlex/bin/Debug/net8.0/CursoAlex.pdb
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.sourcelink.json
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.dll
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/refint/CursoAlex.dll
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.pdb
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/CursoAlex.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/CursoAlex/obj/Debug/net8.0/ref/CursoAlex.dll
