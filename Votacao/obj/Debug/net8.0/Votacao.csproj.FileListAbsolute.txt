@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Votacao/bin/Debug/net8.0/Votacao
+/home/caio-vinicius/ModoTreino/Votacao/bin/Debug/net8.0/Votacao.deps.json
+/home/caio-vinicius/ModoTreino/Votacao/bin/Debug/net8.0/Votacao.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Votacao/bin/Debug/net8.0/Votacao.dll
+/home/caio-vinicius/ModoTreino/Votacao/bin/Debug/net8.0/Votacao.pdb
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.sourcelink.json
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.dll
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/refint/Votacao.dll
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.pdb
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/Votacao.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Votacao/obj/Debug/net8.0/ref/Votacao.dll
