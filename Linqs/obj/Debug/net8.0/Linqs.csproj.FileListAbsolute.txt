@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Linqs/bin/Debug/net8.0/Linqs
+/home/caio-vinicius/ModoTreino/Linqs/bin/Debug/net8.0/Linqs.deps.json
+/home/caio-vinicius/ModoTreino/Linqs/bin/Debug/net8.0/Linqs.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Linqs/bin/Debug/net8.0/Linqs.dll
+/home/caio-vinicius/ModoTreino/Linqs/bin/Debug/net8.0/Linqs.pdb
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.sourcelink.json
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.dll
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/refint/Linqs.dll
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.pdb
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/Linqs.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Linqs/obj/Debug/net8.0/ref/Linqs.dll
