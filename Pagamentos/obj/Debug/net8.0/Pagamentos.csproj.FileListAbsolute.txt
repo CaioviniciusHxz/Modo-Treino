@@ -1,0 +1,15 @@
+/home/caio-vinicius/ModoTreino/Pagamentos/bin/Debug/net8.0/Pagamentos
+/home/caio-vinicius/ModoTreino/Pagamentos/bin/Debug/net8.0/Pagamentos.deps.json
+/home/caio-vinicius/ModoTreino/Pagamentos/bin/Debug/net8.0/Pagamentos.runtimeconfig.json
+/home/caio-vinicius/ModoTreino/Pagamentos/bin/Debug/net8.0/Pagamentos.dll
+/home/caio-vinicius/ModoTreino/Pagamentos/bin/Debug/net8.0/Pagamentos.pdb
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.AssemblyInfoInputs.cache
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.AssemblyInfo.cs
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.csproj.CoreCompileInputs.cache
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.sourcelink.json
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.dll
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/refint/Pagamentos.dll
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.pdb
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/Pagamentos.genruntimeconfig.cache
+/home/caio-vinicius/ModoTreino/Pagamentos/obj/Debug/net8.0/ref/Pagamentos.dll
